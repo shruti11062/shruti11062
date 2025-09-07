@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Shruti Kumari  
+![I am Shruti Kumari](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 💻 Passionate about **Web Development** & **Software Engineering**  
 🎓 B.Tech Student from Jaipur | Aspiring Full Stack Developer  
