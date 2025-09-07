@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Shruti Kumari  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=snehkr&label=Profile%20views&color=0e75b6&style=flat" alt="snehkr" /> </p>
+<h3 align="center">A passionate frontend developer </h3>
 
 💻 Passionate about **Web Development** & **Software Engineering**  
 🎓 B.Tech Student from Jaipur | Aspiring Full Stack Developer  
@@ -36,9 +38,7 @@
 ## 🎮 Projects & Games  
 Check out some of my projects and mini-games:  
 
-### 🐍 Snake Game
-![Snake Game Demo](https://github.com/shruti11062/shruti11062/blob/output/snake-game-demo.gif)  
-> Built a classic Snake Game using JavaScript and HTML canvas. Fun and interactive!  
+
 
 ### 💻 Portfolio Website
 ![Portfolio Demo](https://github.com/shruti11062/shruti11062/blob/output/portfolio-demo.gif)  
