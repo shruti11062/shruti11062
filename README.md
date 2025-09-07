@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**shruti11062/shruti11062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # 👋 Hi, I’m Shruti Kumari  
 
 💻 Passionate about **Web Development** & **Software Engineering**  
