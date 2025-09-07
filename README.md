@@ -58,23 +58,7 @@
   <img src="https://streak-stats.demolab.com?user=shruti11062&theme=radical&border_radius=10" height="180"/>
 </p>
 
-## 🎮 Projects & Games  
-
-### 💻 Portfolio Website  
-<p align="center">
-  <img src="https://github.com/shruti11062/shruti11062/blob/output/portfolio-demo.gif" alt="Portfolio Demo" width="600"/>
-</p>  
-
-> 🌐 My personal portfolio showcasing my projects and skills.  
-🔗 [Visit Portfolio](https://your-portfolio-link.com)  
-
----
-
-## 📈 Contribution Graph & Snake Animation  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti11062&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti11062&theme=react-dark&hide_border=true&area=true" width="100%"/> </p>
 
 <p align="center">
   <img src="https://github.com/shruti11062/shruti11062/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
