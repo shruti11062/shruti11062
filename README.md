@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-
 # 👋 Hi, I’m Shruti Kumari  
 
 💻 Passionate about **Web Development** & **Software Engineering**  
@@ -13,9 +9,9 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/shruti110603/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/shruti11062)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shruti-kumari-228528273)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/shruti110603/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/shruti11062)  
 
 ---
 
@@ -31,22 +27,29 @@
 ---
 
 ## 📊 GitHub Stats  
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti11062&show_icons=true&theme=radical)  
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti11062&show_icons=true&theme=radical&count_private=true&hide=prs)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti11062&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=shruti11062&theme=radical&border_radius=10)  
 
 ---
 
-## 📈 Contribution Graph  
-![Shruti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti11062&theme=react-dark)  
+## 🎮 Projects & Games  
+Check out some of my projects and mini-games:  
+
+### 🐍 Snake Game
+![Snake Game Demo](https://github.com/shruti11062/shruti11062/blob/output/snake-game-demo.gif)  
+> Built a classic Snake Game using JavaScript and HTML canvas. Fun and interactive!  
+
+### 💻 Portfolio Website
+![Portfolio Demo](https://github.com/shruti11062/shruti11062/blob/output/portfolio-demo.gif)  
+> My personal portfolio showcasing my projects and skills.
 
 ---
 
-## 🐍 Contribution Snake  
+## 📈 Contribution Graph & Snake Animation  
+![Shruti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti11062&theme=react-dark)  
 ![Snake animation](https://github.com/shruti11062/shruti11062/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
-
-
-
+⭐️ From [shruti11062](https://github.com/shruti11062)
