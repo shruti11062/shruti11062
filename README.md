@@ -8,7 +8,7 @@
 💬 Ask me about **Java, MERN Stack & Problem Solving**  
 ⚡ Fun fact: I love building projects that solve real problems 🚀  
 
----
+[![snake gif](https://drive.snehkr.workers.dev/0:/snehkr-grid-snake.svg)](https://shruti.in)
 
 ## 🌐 Connect with me  
 
@@ -57,12 +57,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shruti11062&theme=radical&border_radius=10" height="180"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti11062&theme=radical&hide_border=true&area=true" width="100%"/>
-</p>
-
----
 
 ## 🎮 Projects & Games  
 
