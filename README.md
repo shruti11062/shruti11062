@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shruti Kumari  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=28&pause=2000&color=23A2F1&center=true&vCenter=true&width=1000&lines=A+PASSIONATE+BACKEND+DEVELOPER;Aspiring+Full+Stack+Engineer;Problem+Solver+💡)](https://github.com/shruti11062)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=28&pause=2000&color=23A2F1&center=true&vCenter=true&width=1000&lines=A+PASSIONATE+Frontend+DEVELOPER;Aspiring+Full+Stack+Engineer;Problem+Solver+💡)](https://github.com/shruti11062)
 
 💻 Passionate about **Web Development** & **Software Engineering**  
 🎓 B.Tech Student from Jaipur | Aspiring Full Stack Developer  
@@ -60,6 +60,3 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti11062&theme=react-dark&hide_border=true&area=true" width="100%"/> </p>
 
-<p align="center">
-  <img src="https://github.com/shruti11062/shruti11062/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
