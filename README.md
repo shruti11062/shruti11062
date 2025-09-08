@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Shruti Kumari  
+# 👋 Hi, I’m Shruti Kumari      <a href="https://snehkr.in">
+<p align="center">
+  <img src="https://git-visitors.vercel.app/api/snehkr" alt="shruti.in">
+</p></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=28&pause=2000&color=23A2F1&center=true&vCenter=true&width=1000&lines=A+PASSIONATE+Frontend+DEVELOPER;Aspiring+Full+Stack+Engineer;Problem+Solver+💡)](https://github.com/shruti11062)
 
