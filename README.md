@@ -61,5 +61,8 @@
   <img src="https://streak-stats.demolab.com?user=shruti11062&theme=radical&border_radius=10" height="180"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti11062&theme=react-dark&hide_border=true&area=true" width="100%"/> </p>
+
+<a href="https://shruti.in">
+<img alt="Shruti's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shruti&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
 
